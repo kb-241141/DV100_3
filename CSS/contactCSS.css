@@ -89,7 +89,7 @@ nav{
 }
 
 .navLinks a.active{
-    color: #cc005f;
+    color:#4dd0eb;
     font-weight: 600;
 }
 
@@ -222,7 +222,7 @@ nav{
 
 h3{
     text-transform: uppercase;
-    color: #50BFD7;
+    color: #4dd0eb;
     font-weight: 500;
     font-size: 15px;
     margin-bottom: 0px;
@@ -230,7 +230,7 @@ h3{
 
 h2{
     text-transform: uppercase;
-    color: #30004F;
+    color: #4e0082;
     font-size: 30px;
     margin-bottom: 10px;
 }
@@ -276,7 +276,7 @@ h4{
 }
 
 .submit{
-    background-color: #E51728;
+    background-color:#dca712;
     border: none;
     margin-top: 2rem;
     width: 45%;

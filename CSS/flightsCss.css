@@ -34,7 +34,7 @@ body::-webkit-scrollbar{
 
 header{
   height: 8dvh;
-  background-color: rgb(70, 12, 108);
+  background-color:#80323c;
   justify-content: center;
   align-items: center;
   color: antiquewhite;
@@ -98,7 +98,7 @@ nav{
 }
 
 .navLinks a.active{
-    color: #cc005f;
+    color: #4dd0eb;
     font-weight: 600;
 }
 
@@ -207,7 +207,7 @@ width: 0px;
 }
 
 .filter{
-  background-color: rgb(70, 12, 108);
+  background-color:#80323c;
   border: none;
   color: antiquewhite;
   /* margin: 2dvh 10px auto 4em; */
@@ -217,7 +217,7 @@ width: 0px;
 }
 
 .squared{
-  background-color: rgb(70, 12, 108);
+  background-color: #80323c;
   border: none;
   color: antiquewhite;
   margin: 0 10px;
@@ -231,12 +231,12 @@ width: 0px;
 }
 
 #meteor{
-  color: red;
+  color:#dca712;
   font-weight: 600;
 }
 
 #meteor:hover{
-  color: rgba(255, 0, 0, 0.78);
+  color:#dca712;
 }
 
 .filter:hover, .squared:hover, #meteor:hover{
@@ -331,7 +331,7 @@ width: 0px;
 }
 
 .purple{
-  background-color: #45016D;
+  background-color:#80323c;
 }
 
 .purple h2{
@@ -339,7 +339,7 @@ width: 0px;
 }
 
 .purple .price{
-  color: #50BFD7;
+  color:#4dd0eb;
 }
 
 .purple .stars{
@@ -358,7 +358,7 @@ width: 0px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #50BFD7;
+  background-color:#4dd0eb;
   color: #ffffff;
   border-radius: 15px;
   padding: 5px;
@@ -368,7 +368,7 @@ width: 0px;
 }
 
 .blueBtn span, .blueBtn button{
-  background-color: #50BFD7;
+  background-color:#4dd0eb;
 }
 
 .sectionImg{
@@ -401,7 +401,7 @@ width: 0px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #45016D;
+  background-color:#80323c;
   color: #ffffff;
   border-radius: 15px;
   padding: 5px;
@@ -411,7 +411,7 @@ width: 0px;
 }
 
 .minusBtn, .plusBtn{
-  background-color: #45016D;
+  background-color:#80323c;
   border: none;
   color: #ffffff;
   cursor: pointer;
@@ -428,7 +428,7 @@ width: 0px;
 }
 
 .purple .minusBtn:hover, .purple .plusBtn:hover{
-  background-color: #66d8f2;
+  background-color:#4dd0eb;
   border-color: #7fd4e7;
 }
 
@@ -441,7 +441,7 @@ width: 0px;
 }
 
 .redBtn{
-  background-color: #E51728;
+  background-color: #dca712;
   border: none;
   color: #ffffff;
   height: 3.5rem;
@@ -455,7 +455,7 @@ width: 0px;
 }
 
 .redBtn:hover{
-  background-color: #be0010;
+  background-color:#dca712;
   border-color: rgb(255, 133, 133);
   transition: 300ms ease;
 }
@@ -466,7 +466,7 @@ width: 0px;
 
 .stars span{
   /* font-size: 25px; */
-  color: rgb(255, 187, 0);
+  color:#dca712;
 }
 
 .stars{
